@@ -1,13 +1,12 @@
-import './App.css'
-import UseEffect from './learn/UseEffect'
+import "./App.css";
+import HappyNewYear from "./learn/HappyNewYear";
 
 function App() {
-
   return (
     <>
-      <UseEffect/>
+      <HappyNewYear />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
